@@ -1,0 +1,4 @@
+run the whole project as maven test.(but it will run only 1st class file)
+mvn clean install
+mvn "package" -Dskiptests and test.skip should be true.
+//running multiple tests we have to use the properties section of packeage.

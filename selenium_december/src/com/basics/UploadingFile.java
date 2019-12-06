@@ -14,6 +14,9 @@ public class UploadingFile {
 	driver.get("https://html.com/input-type-file/");
 	driver.findElement(By.id("fileupload")).sendKeys("C:\\Users\\waqua\\Desktop\\djhw.txt");
 	//dont click on browse button.
+	
+	//driver.manage().timeouts().pageLoadTimeout(6, "sec");
+	
 
 	}
 

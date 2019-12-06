@@ -22,5 +22,5 @@ public class Usinglocators {
 	driver.findElement(By.id("ppaFormSbtBtn")).click();
 	
 	}
-
+  
 }

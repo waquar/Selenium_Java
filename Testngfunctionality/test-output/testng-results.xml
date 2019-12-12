@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52226" started-at="2019-12-12T10:31:53 IST" finished-at="2019-12-12T10:32:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52226" started-at="2019-12-12T10:31:53 IST" finished-at="2019-12-12T10:32:45 IST">
+      <class name="basicfeatures.usingdataprovidefromotherclass">
+        <test-method status="PASS" signature="setupclass()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="setupclass" is-config="true" duration-ms="2" started-at="2019-12-12T10:31:53 IST" finished-at="2019-12-12T10:31:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupclass -->
+        <test-method status="PASS" signature="setupmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="setupmethod" is-config="true" duration-ms="10455" started-at="2019-12-12T10:31:53 IST" finished-at="2019-12-12T10:32:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethod -->
+        <test-method status="PASS" signature="first(java.lang.String, java.lang.String)[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="first" duration-ms="4273" started-at="2019-12-12T10:32:03 IST" data-provider="datahere" finished-at="2019-12-12T10:32:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2+3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="teardownmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="teardownmethod" is-config="true" duration-ms="4373" started-at="2019-12-12T10:32:08 IST" finished-at="2019-12-12T10:32:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownmethod -->
+        <test-method status="PASS" signature="setupmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="setupmethod" is-config="true" duration-ms="9833" started-at="2019-12-12T10:32:12 IST" finished-at="2019-12-12T10:32:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethod -->
+        <test-method status="FAIL" signature="first(java.lang.String, java.lang.String)[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="first" duration-ms="4425" started-at="2019-12-12T10:32:22 IST" data-provider="datahere" finished-at="2019-12-12T10:32:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2*3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [7] but found [6]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [7] but found [6]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at org.testng.Assert.assertEquals(Assert.java:585)
+at basicfeatures.usingdataprovidefromotherclass.first(usingdataprovidefromotherclass.java:51)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="teardownmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="teardownmethod" is-config="true" duration-ms="150" started-at="2019-12-12T10:32:26 IST" finished-at="2019-12-12T10:32:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownmethod -->
+        <test-method status="PASS" signature="setupmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="setupmethod" is-config="true" duration-ms="10024" started-at="2019-12-12T10:32:26 IST" finished-at="2019-12-12T10:32:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethod -->
+        <test-method status="PASS" signature="first(java.lang.String, java.lang.String)[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="first" duration-ms="4381" started-at="2019-12-12T10:32:36 IST" data-provider="datahere" finished-at="2019-12-12T10:32:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20/2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="teardownmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="teardownmethod" is-config="true" duration-ms="4273" started-at="2019-12-12T10:32:41 IST" finished-at="2019-12-12T10:32:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownmethod -->
+        <test-method status="PASS" signature="teardownclass()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="teardownclass" is-config="true" duration-ms="0" started-at="2019-12-12T10:32:45 IST" finished-at="2019-12-12T10:32:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownclass -->
+      </class> <!-- basicfeatures.usingdataprovidefromotherclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -729,3 +729,717 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-06 14:32:19.445 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-06 14:33:13.826
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-06 16:18:04.212 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-06 16:18:27.094
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-07 11:03:34.936 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-07 11:05:23.519
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-07 21:56:31.883 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-07 21:57:47.651
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-08 00:16:10.962 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-08 00:17:49.920
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-08 22:36:55.316 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-08 22:37:53.816
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-09 00:32:32.290 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-09 00:33:53.913
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.debug 2 0 2019-12-09 00:41:34.371
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+!SESSION 2019-12-09 10:14:21.925 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-09 10:16:07.405
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-09 13:31:22.851 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-09 13:32:17.596
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-10 10:21:37.981 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-10 10:23:39.438
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-10 20:24:56.549 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-10 20:26:32.092
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-11 10:06:09.712 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-11 10:07:17.768
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-12 08:19:42.257 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-12 08:20:40.431
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 08:54:34.371
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49929 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-1739029700\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 49929 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-1739029700\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 08:55:22.672
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49955 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-863771924\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 49955 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-863771924\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 08:57:12.659
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50037 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-565343051\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 50037 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-565343051\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 08:58:04.931
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50086 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--320086761\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 50086 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--320086761\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 09:00:52.613
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50233 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--1558380577\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 50233 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--1558380577\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 09:04:21.877
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50360 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--344373559\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 50360 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--344373559\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 09:44:39.420
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51698 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--112928221\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 51698 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--112928221\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 09:46:50.368
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51762 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--1272360547\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 51762 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--1272360547\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 09:52:44.966
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51841 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-1702237180\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 51841 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-1702237180\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 10:10:47.134
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52007 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--277176083\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 52007 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--277176083\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 10:13:19.123
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52124 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-1098733601\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 52124 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-1098733601\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 10:14:44.767
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52245 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--1511898245\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 52245 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--1511898245\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 10:29:06.385
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52388 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-295706283\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 52388 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-295706283\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 10:30:37.428
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52507 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--6767649\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 52507 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--6767649\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-12 10:31:52.634
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52629 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-526184554\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 52629 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-526184554\testng-customsuite.xml
+!SESSION 2019-12-13 07:14:55.866 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-13 07:16:57.392
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2019-12-13 09:35:39.036
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56306 -protocol json -d D:\selenium_java\Testngfunctionality\test-output D:\selenium_java\Testngfunctionality\testng.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 56306 -protocol json -d D:\selenium_java\Testngfunctionality\test-output D:\selenium_java\Testngfunctionality\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-13 09:37:09.673
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56393 -protocol json -d D:\selenium_java\Testngfunctionality\test-output D:\selenium_java\Testngfunctionality\testng.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 56393 -protocol json -d D:\selenium_java\Testngfunctionality\test-output D:\selenium_java\Testngfunctionality\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-13 09:51:10.845
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56735 -protocol json -d D:\selenium_java\Testngfunctionality\test-output D:\selenium_java\Testngfunctionality\testng.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 56735 -protocol json -d D:\selenium_java\Testngfunctionality\test-output D:\selenium_java\Testngfunctionality\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-13 09:52:22.628
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56849 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-965641212\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 56849 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-965641212\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-13 09:52:48.686
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56877 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-1008763737\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 56877 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-1008763737\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-13 09:54:10.970
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56909 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--1393685016\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 56909 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--1393685016\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-13 09:55:07.794
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56953 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-555114659\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 56953 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-555114659\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-13 09:55:56.941
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56990 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-2016668461\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 56990 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-2016668461\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-13 10:36:44.657
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57221 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--362139875\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 57221 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse--362139875\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-13 12:54:59.089
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58091 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-137555512\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 58091 -protocol json -d D:\selenium_java\Testngfunctionality\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-137555512\testng-customsuite.xml
+!SESSION 2019-12-14 20:04:03.657 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-14 20:05:36.754
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2019-12-14 23:34:27.682
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\Testngfunctionality\bin D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62090 -protocol json -d D:\selenium_java\Testngfunctionality\test-output D:\selenium_java\Testngfunctionality\testng.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\Testngfunctionality\bin:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-server-standalone-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\client-combined-3.141.59-sources.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\byte-buddy-1.8.15.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\commons-exec-1.3.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\guava-25.0-jre.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okhttp-3.11.0.jar:D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 62090 -protocol json -d D:\selenium_java\Testngfunctionality\test-output D:\selenium_java\Testngfunctionality\testng.xml
+!SESSION 2019-12-15 10:25:27.154 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-15 10:27:16.139
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-15 20:48:15.160 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-15 20:49:20.827
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-16 08:51:00.612 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-16 08:52:19.922
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-17 08:22:02.269 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-17 08:23:10.618
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-17 09:10:35.905 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/D:/selenium_java/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-17 09:10:51.157
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-12-17 10:43:08.755
+!MESSAGE Launch configuration maven_shaan references closed project maven_shaan
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration maven_shaan references closed project maven_shaan
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-12-17 10:43:08.755
+!MESSAGE Launch configuration maven_shaan references closed project maven_shaan
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-12-17 10:43:08.770
+!MESSAGE Launch configuration maven_shaan references closed project maven_shaan
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration maven_shaan references closed project maven_shaan
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-12-17 10:43:08.770
+!MESSAGE Launch configuration maven_shaan references closed project maven_shaan
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-12-17 10:43:08.770
+!MESSAGE Launch configuration maven_shaan references closed project maven_shaan
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration maven_shaan references closed project maven_shaan
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:375)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-12-17 10:43:08.770
+!MESSAGE Launch configuration maven_shaan references closed project maven_shaan
+!SESSION 2019-12-18 10:46:50.534 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-18 10:48:32.375
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-18 21:48:06.186 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-18 21:49:32.976
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-19 08:31:16.256 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-19 08:32:41.071
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-20 10:22:24.356 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-20 10:24:15.765
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-22 18:34:48.738 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-22 18:36:02.660
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-22 19:25:45.869 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-22 19:26:47.074
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2019-12-22 19:44:41.474
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\restassured\target\test-classes D:\selenium_java\restassured\target\classes D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar C:\Users\waqua\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\waqua\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\waqua\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\waqua\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar C:\Users\waqua\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar C:\Users\waqua\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar C:\Users\waqua\.m2\repository\org\testng\testng\6.9.10\testng-6.9.10.jar C:\Users\waqua\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\waqua\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-all\2.4.5\groovy-all-2.4.5.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 65004 -protocol json -d D:\selenium_java\restassured\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-2042054830\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\restassured\target\test-classes:D:\selenium_java\restassured\target\classes:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar:C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar:C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar:C:\Users\waqua\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\waqua\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\waqua\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\waqua\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar:C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar:C:\Users\waqua\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar:C:\Users\waqua\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar:C:\Users\waqua\.m2\repository\org\testng\testng\6.9.10\testng-6.9.10.jar:C:\Users\waqua\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\waqua\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-all\2.4.5\groovy-all-2.4.5.jar org.testng.remote.RemoteTestNG -serport 65004 -protocol json -d D:\selenium_java\restassured\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-2042054830\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-12-22 19:45:19.251
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\restassured\target\test-classes D:\selenium_java\restassured\target\classes D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar C:\Users\waqua\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\waqua\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\waqua\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\waqua\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar C:\Users\waqua\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar C:\Users\waqua\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar C:\Users\waqua\.m2\repository\org\testng\testng\6.9.10\testng-6.9.10.jar C:\Users\waqua\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\waqua\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-all\2.4.5\groovy-all-2.4.5.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 65009 -protocol json -d D:\selenium_java\restassured\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-1910732861\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\restassured\target\test-classes:D:\selenium_java\restassured\target\classes:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar:C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar:C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar:C:\Users\waqua\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\waqua\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\waqua\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\waqua\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar:C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar:C:\Users\waqua\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar:C:\Users\waqua\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar:C:\Users\waqua\.m2\repository\org\testng\testng\6.9.10\testng-6.9.10.jar:C:\Users\waqua\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\waqua\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-all\2.4.5\groovy-all-2.4.5.jar org.testng.remote.RemoteTestNG -serport 65009 -protocol json -d D:\selenium_java\restassured\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-1910732861\testng-customsuite.xml
+!SESSION 2019-12-23 01:11:57.802 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-23 01:13:48.760
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2019-12-23 01:33:20.829
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar D:\selenium_java\restassured\target\test-classes D:\selenium_java\restassured\target\classes D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar C:\Users\waqua\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\waqua\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\waqua\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\waqua\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar C:\Users\waqua\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar C:\Users\waqua\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar C:\Users\waqua\.m2\repository\org\testng\testng\6.9.10\testng-6.9.10.jar C:\Users\waqua\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\waqua\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-all\2.4.5\groovy-all-2.4.5.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60149 -protocol json -d D:\selenium_java\restassured\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-230518346\testng-customsuite.xml
+java -ea -classpath D:\eclipse\configuration\org.eclipse.osgi\1018\0\.cp\lib\testng-remote.jar:D:\selenium_java\restassured\target\test-classes:D:\selenium_java\restassured\target\classes:D:\eclipse\plugins\org.testng_7.0.0.r201908191551.jar:D:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:D:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar:C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar:C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar:C:\Users\waqua\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\waqua\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\waqua\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\waqua\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\waqua\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\waqua\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar:C:\Users\waqua\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar:C:\Users\waqua\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar:C:\Users\waqua\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar:C:\Users\waqua\.m2\repository\org\testng\testng\6.9.10\testng-6.9.10.jar:C:\Users\waqua\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\waqua\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar:C:\Users\waqua\.m2\repository\org\codehaus\groovy\groovy-all\2.4.5\groovy-all-2.4.5.jar org.testng.remote.RemoteTestNG -serport 60149 -protocol json -d D:\selenium_java\restassured\test-output C:\Users\waqua\AppData\Local\Temp\testng-eclipse-230518346\testng-customsuite.xml
+!SESSION 2019-12-24 10:37:53.231 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-24 10:39:00.410
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\waqua'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

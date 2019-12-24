@@ -62,5 +62,16 @@ public class checkannotations {
 		  System.out.println("matched");	  
   }
   
+  @Test
+  public void third() throws InterruptedException{	  		
+		  driver.findElement(By.className("gLFyf")).sendKeys("4+3");
+		  Thread.sleep(3000);
+		  driver.findElement(By.name("btnK")).click();
+		  		  
+		  WebElement result =  driver.findElement(By.id("cwos"));
+		  Assert.assertEquals(result.getText(), "7");
+		  System.out.println("matched");	  
+  }
+  
   
 }

@@ -3,15 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basicfeatures.usingdataprovidefromotherclass">
+      <class name="basicfeatures.checkannotations1">
         <methods>
-          <include name="first" invocation-numbers="1"/>
-          <include name="setupclass"/>
-          <include name="setupmethod"/>
-          <include name="teardownclass"/>
-          <include name="teardownmethod"/>
+          <include name="first"/>
+          <include name="browserset"/>
         </methods>
-      </class> <!-- basicfeatures.usingdataprovidefromotherclass -->
+      </class> <!-- basicfeatures.checkannotations1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

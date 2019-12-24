@@ -1,69 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
+<testng-results skipped="0" failed="3" ignored="0" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="52226" started-at="2019-12-12T10:31:53 IST" finished-at="2019-12-12T10:32:45 IST">
+  <suite name="Suite_first" duration-ms="25639" started-at="2019-12-14T23:34:29 IST" finished-at="2019-12-14T23:34:55 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="52226" started-at="2019-12-12T10:31:53 IST" finished-at="2019-12-12T10:32:45 IST">
-      <class name="basicfeatures.usingdataprovidefromotherclass">
-        <test-method status="PASS" signature="setupclass()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="setupclass" is-config="true" duration-ms="2" started-at="2019-12-12T10:31:53 IST" finished-at="2019-12-12T10:31:53 IST">
+    <test name="Testsuite1" duration-ms="25639" started-at="2019-12-14T23:34:29 IST" finished-at="2019-12-14T23:34:55 IST">
+      <class name="basicfeatures.checkannotations">
+        <test-method status="PASS" signature="setupclass()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="setupclass" is-config="true" duration-ms="1" started-at="2019-12-14T23:34:35 IST" finished-at="2019-12-14T23:34:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupclass -->
-        <test-method status="PASS" signature="setupmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="setupmethod" is-config="true" duration-ms="10455" started-at="2019-12-12T10:31:53 IST" finished-at="2019-12-12T10:32:03 IST">
+        <test-method status="PASS" signature="setupmethod()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="setupmethod" is-config="true" duration-ms="12394" started-at="2019-12-14T23:34:35 IST" finished-at="2019-12-14T23:34:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupmethod -->
-        <test-method status="PASS" signature="first(java.lang.String, java.lang.String)[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="first" duration-ms="4273" started-at="2019-12-12T10:32:03 IST" data-provider="datahere" finished-at="2019-12-12T10:32:08 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[2+3]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[5]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- first -->
-        <test-method status="PASS" signature="teardownmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="teardownmethod" is-config="true" duration-ms="4373" started-at="2019-12-12T10:32:08 IST" finished-at="2019-12-12T10:32:12 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardownmethod -->
-        <test-method status="PASS" signature="setupmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="setupmethod" is-config="true" duration-ms="9833" started-at="2019-12-12T10:32:12 IST" finished-at="2019-12-12T10:32:22 IST">
+        <test-method status="PASS" signature="setupmethod()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="setupmethod" is-config="true" duration-ms="12404" started-at="2019-12-14T23:34:35 IST" finished-at="2019-12-14T23:34:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupmethod -->
-        <test-method status="FAIL" signature="first(java.lang.String, java.lang.String)[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="first" duration-ms="4425" started-at="2019-12-12T10:32:22 IST" data-provider="datahere" finished-at="2019-12-12T10:32:26 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[2*3]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[7]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
+        <test-method status="PASS" signature="setupmethod()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="setupmethod" is-config="true" duration-ms="12377" started-at="2019-12-14T23:34:35 IST" finished-at="2019-12-14T23:34:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethod -->
+        <test-method status="FAIL" signature="first()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="first" duration-ms="3266" started-at="2019-12-14T23:34:47 IST" finished-at="2019-12-14T23:34:51 IST">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
             <message>
-              <![CDATA[expected [7] but found [6]]]>
+              <![CDATA[element not interactable
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-9M665SQ', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\waqua\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb3ffbb8e8f1e044e9ce10b7bfa2de26]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [7] but found [6]
-at org.testng.Assert.fail(Assert.java:97)
-at org.testng.Assert.assertEqualsImpl(Assert.java:136)
-at org.testng.Assert.assertEquals(Assert.java:118)
-at org.testng.Assert.assertEquals(Assert.java:575)
-at org.testng.Assert.assertEquals(Assert.java:585)
-at basicfeatures.usingdataprovidefromotherclass.first(usingdataprovidefromotherclass.java:51)
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-9M665SQ', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\waqua\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb3ffbb8e8f1e044e9ce10b7bfa2de26
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+at basicfeatures.checkannotations.first(checkannotations.java:46)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -76,61 +67,254 @@ at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java
 at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
 at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
 at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(Unknown Source)
-at org.testng.TestRunner.privateRun(TestRunner.java:770)
-at org.testng.TestRunner.run(TestRunner.java:591)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
-at org.testng.SuiteRunner.run(SuiteRunner.java:304)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
-at org.testng.TestNG.runSuites(TestNG.java:1032)
-at org.testng.TestNG.run(TestNG.java:1000)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- first -->
-        <test-method status="PASS" signature="teardownmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="teardownmethod" is-config="true" duration-ms="150" started-at="2019-12-12T10:32:26 IST" finished-at="2019-12-12T10:32:26 IST">
+        <test-method status="FAIL" signature="third()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="third" duration-ms="3292" started-at="2019-12-14T23:34:47 IST" finished-at="2019-12-14T23:34:51 IST">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-9M665SQ', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\waqua\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb3ffbb8e8f1e044e9ce10b7bfa2de26]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-9M665SQ', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\waqua\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb3ffbb8e8f1e044e9ce10b7bfa2de26
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+at basicfeatures.checkannotations.third(checkannotations.java:69)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="FAIL" signature="second()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="second" duration-ms="7420" started-at="2019-12-14T23:34:47 IST" finished-at="2019-12-14T23:34:55 IST">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-9M665SQ', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\waqua\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb3ffbb8e8f1e044e9ce10b7bfa2de26
+*** Element info: {Using=name, value=btnK}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-9M665SQ', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\waqua\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb3ffbb8e8f1e044e9ce10b7bfa2de26
+*** Element info: {Using=name, value=btnK}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:404)
+at org.openqa.selenium.By$ByName.findElement(By.java:284)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at basicfeatures.checkannotations.second(checkannotations.java:58)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="teardownmethod()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="teardownmethod" is-config="true" duration-ms="4115" started-at="2019-12-14T23:34:51 IST" finished-at="2019-12-14T23:34:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownmethod -->
-        <test-method status="PASS" signature="setupmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="setupmethod" is-config="true" duration-ms="10024" started-at="2019-12-12T10:32:26 IST" finished-at="2019-12-12T10:32:36 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setupmethod -->
-        <test-method status="PASS" signature="first(java.lang.String, java.lang.String)[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="first" duration-ms="4381" started-at="2019-12-12T10:32:36 IST" data-provider="datahere" finished-at="2019-12-12T10:32:41 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[20/2]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[10]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- first -->
-        <test-method status="PASS" signature="teardownmethod()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="teardownmethod" is-config="true" duration-ms="4273" started-at="2019-12-12T10:32:41 IST" finished-at="2019-12-12T10:32:45 IST">
+        <test-method status="FAIL" signature="teardownmethod()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="teardownmethod" is-config="true" duration-ms="4134" started-at="2019-12-14T23:34:51 IST" finished-at="2019-12-14T23:34:55 IST">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-9M665SQ', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\waqua\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb3ffbb8e8f1e044e9ce10b7bfa2de26]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-9M665SQ', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\waqua\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb3ffbb8e8f1e044e9ce10b7bfa2de26
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)
+at basicfeatures.checkannotations.teardownmethod(checkannotations.java:39)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
+at org.testng.internal.TestInvoker.runAfterGroupsConfigurations(TestInvoker.java:658)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:642)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownmethod -->
-        <test-method status="PASS" signature="teardownclass()[pri:0, instance:basicfeatures.usingdataprovidefromotherclass@eec5a4a]" name="teardownclass" is-config="true" duration-ms="0" started-at="2019-12-12T10:32:45 IST" finished-at="2019-12-12T10:32:45 IST">
+        <test-method status="FAIL" signature="teardownmethod()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="teardownmethod" is-config="true" duration-ms="5" started-at="2019-12-14T23:34:55 IST" finished-at="2019-12-14T23:34:55 IST">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-9M665SQ', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\waqua\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb3ffbb8e8f1e044e9ce10b7bfa2de26]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-9M665SQ', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\waqua\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb3ffbb8e8f1e044e9ce10b7bfa2de26
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)
+at basicfeatures.checkannotations.teardownmethod(checkannotations.java:39)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
+at org.testng.internal.TestInvoker.runAfterGroupsConfigurations(TestInvoker.java:658)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:642)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownmethod -->
+        <test-method status="SKIP" signature="teardownclass()[pri:0, instance:basicfeatures.checkannotations@6ddf90b0]" name="teardownclass" is-config="true" duration-ms="-1576346695408" started-at="2019-12-14T23:34:55 IST" finished-at="1970-01-01T05:30:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownclass -->
-      </class> <!-- basicfeatures.usingdataprovidefromotherclass -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- basicfeatures.checkannotations -->
+      <class name="basicfeatures.checkannotations1">
+        <test-method status="PASS" signature="browserset()[pri:0, instance:basicfeatures.checkannotations1@2b2948e2]" name="browserset" is-config="true" duration-ms="5698" started-at="2019-12-14T23:34:29 IST" finished-at="2019-12-14T23:34:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserset -->
+        <test-method status="PASS" signature="first()[pri:0, instance:basicfeatures.checkannotations1@2b2948e2]" name="first" duration-ms="5209" started-at="2019-12-14T23:34:35 IST" finished-at="2019-12-14T23:34:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+      </class> <!-- basicfeatures.checkannotations1 -->
+    </test> <!-- Testsuite1 -->
+  </suite> <!-- Suite_first -->
 </testng-results>

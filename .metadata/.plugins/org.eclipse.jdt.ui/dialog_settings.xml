@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.last.external.project" value="D:\datadriven"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="D:\Selenium_Addon_Files\java_addons\selenium-java-3.141.59\libs"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="D:\Selenium_Addon_Files\poi-bin-4.1.1-20191023\poi-4.1.1\ooxml-lib"/>
 	<section name="completion_proposal_size">
 	</section>
 	<section name="quick_assist_proposal_size">

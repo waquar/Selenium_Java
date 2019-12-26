@@ -1441,3 +1441,14 @@ org.eclipse.core.runtime.CoreException: Launch configuration maven_shaan referen
 2019-12-23 01:33:19,779 [Worker-7: Launching Getweatherdata] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-12-23 01:33:19,779 [Worker-7: Launching Getweatherdata] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\selenium_java\restassured\src\test\resources
 2019-12-24 10:38:58,556 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-24 13:07:49,277 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 13:07:49,280 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\selenium_java\restassured\src\main\resources
+2019-12-24 13:07:49,284 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 13:07:49,284 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\selenium_java\restassured\src\test\resources
+2019-12-24 13:07:50,992 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 13:07:50,993 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\selenium_java\restassured\src\main\resources
+2019-12-24 13:07:50,994 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 13:07:50,995 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\selenium_java\restassured\src\test\resources
+2019-12-25 11:46:35,482 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-25 21:07:28,517 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-26 10:31:12,081 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
